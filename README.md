@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ny_Aro
 - 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently learning at ISPM 
-- 💞️ I’m looking to collaborate on C# development
+- 💞️ I’m looking to collaborate on C# development, Game development and Web development
 - 📫 How to reach me??
     -> Mail : aroniaiana659@gmail.com
     -> Tel  : +261 34 69 816 27
