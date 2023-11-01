@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Ny_Aro
 - 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently learning at ISPM 
-- 💞️ I’m looking to collaborate on C# development, Game development and Web development
+- 💞️ I’m looking to collaborate on C# development, Data analyst
 - 📫 How to reach me??
 - -> Mail    : aroniaiana659@gmail.com
 - -> Tel     : +261 34 69 816 27
 - -> FB      : Aro Niaina Manevatiana Lalaharisoa
-- -> Twitter : @AroNiaina9
 - [CV.pdf](https://github.com/Ny-Aro/Ny-Aro/files/8169392/CV.pdf)
 - [CV.docx](https://github.com/Ny-Aro/Ny-Aro/files/8169394/CV.docx)
 
